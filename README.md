@@ -192,6 +192,7 @@ Al finalizar el laboratorio, el estudiante deberá ser capaz de:
 ## Observaciones
 
 Tutorial muy completo y practico.
+[Link a la app](https://materialknight.github.io/react-products/)
 
 ---
 
